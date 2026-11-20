@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+mcp_advanced_env/
+.gradio/
+.env
